@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/skjha180804/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/skjha180804/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/skjha180804/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
