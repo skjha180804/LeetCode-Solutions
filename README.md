@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/skjha180804/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/skjha180804/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/skjha180804/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/skjha180804/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/skjha180804/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
