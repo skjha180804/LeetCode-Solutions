@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/skjha180804/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Prefix Sum
 |  |
