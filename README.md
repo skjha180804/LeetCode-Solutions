@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/skjha180804/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
